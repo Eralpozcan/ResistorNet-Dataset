@@ -59,5 +59,5 @@ The devices used were Samsung Note 5, Nikon D7000.
 
 
 ### Project Executives:
- -Eralp ÖZCAN
- -İlker ÖNALAN and Members of Artificial Intelligence and Deep Learning Lab.
+- Eralp ÖZCAN
+- İlker ÖNALAN and Members of Artificial Intelligence and Deep Learning Lab.
