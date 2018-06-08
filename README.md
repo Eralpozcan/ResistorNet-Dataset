@@ -46,8 +46,7 @@ There are 37 class 3025 images in ResistorNet-DirençNet.
 - **820 R 1/4W:** 97
 - **4700Mohm :** 102
 
-  **If you are using the dataset, please give a citation of this repository. The dataset can be downloaded [here]
-	().**
+  **If you are using the dataset, please give a citation of this repository. The dataset can be downloaded [here](https://goo.gl/exg9Vp).**
 ### Details of datasets:
 
 - Image size: 700 x 700 pixels
