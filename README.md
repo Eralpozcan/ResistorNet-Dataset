@@ -59,7 +59,6 @@ The devices used were Samsung Note 5, Nikon D7000.
 
 ### Project Executives:
 
--Prof.Dr. Raif BAYIR - Academic Advisor 
-
+- Prof.Dr. Raif BAYIR - Academic Advisor 
 - Eralp ÖZCAN
 - İlker ÖNALAN and Members of Artificial Intelligence and Deep Learning Lab.
