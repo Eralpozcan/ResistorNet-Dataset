@@ -1,5 +1,5 @@
 # ResistorNet-Dataset
-## By Karabük University Artificial Intelligence and Deep Learning Laboratory
+## By Karabuk University Artificial Intelligence and Deep Learning Laboratory
 Using CNN-InceptionV4 we reached 82% accuracy.
 29 Epochs.
 Our paper can be found [here](https://scribd.com/document/381301116/DirencNet-ResistorNet).
